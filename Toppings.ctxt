@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=burgerDecorator\ toppings
+comment0.target=Toppings(BurgerDecorator,\ java.lang.String[])
+comment1.params=
+comment1.target=double\ cost()
+comment2.params=
+comment2.target=void\ printDescription()
+numComments=3

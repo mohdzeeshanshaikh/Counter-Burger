@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=d\ p
+comment0.target=Leaf(java.lang.String,\ java.lang.Double)
+comment1.params=
+comment1.target=Leaf()
+comment2.params=
+comment2.target=void\ printDescription()
+comment3.params=c
+comment3.target=void\ addChild(Component)
+comment4.params=c
+comment4.target=void\ removeChild(Component)
+comment5.params=i
+comment5.target=Component\ getChild(int)
+numComments=6

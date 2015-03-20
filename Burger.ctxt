@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=type\ size\ serve
+comment0.target=Burger(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=double\ cost()
+numComments=2
